@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D0C57,100:6A0DAD&height=220&section=header&text=Hi,%20I'm%20Jayashree&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Storyteller&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D0C57,100:6A0DAD&height=220&section=header&text=Hi,%20I'm%20Jayamani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Storyteller&descAlignY=58&descSize=18" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=24&duration=3000&pause=800&color=B980F0&center=true&vCenter=true&width=600&lines=Building+clean%2C+scalable+web+apps;MERN+Stack+Developer;Turning+ideas+into+code+%F0%9F%92%9C;Poet+%7C+Podcaster+%7C+Creator" />
@@ -16,26 +16,26 @@
 <br>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/-Email-2D0C57?style=for-the-badge&logo=gmail&logoColor=B980F0" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/-LinkedIn-2D0C57?style=for-the-badge&logo=linkedin&logoColor=B980F0" /></a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM/"><img src="https://img.shields.io/badge/-Instagram-2D0C57?style=for-the-badge&logo=instagram&logoColor=B980F0" /></a>
+  <a href="mailto:Jayamaniviswanathan01@gmail.com"><img src="https://img.shields.io/badge/-Email-2D0C57?style=for-the-badge&logo=gmail&logoColor=B980F0" /></a>
+  <a href=https://www.linkedin.com/in/jayamani-v-4a54a72b6?utm_source=share_via&utm_content=profile&utm_medium=member_android"https:"><img src="https://img.shields.io/badge/-LinkedIn-2D0C57?style=for-the-badge&logo=linkedin&logoColor=B980F0" /></a>
+  <a href=https://www.instagram.com/konjam_kathaipoma?igsh=MXhqMnB2cjA5ODAydg==""><img src="https://img.shields.io/badge/-Instagram-2D0C57?style=for-the-badge&logo=instagram&logoColor=B980F0" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:2D0C57&height=2&width=1000" width="100%" />
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <table align="center">
 <tr>
 <td width="60%" valign="top">
 
 ```yaml
-name: Jayashree (Jay)
+name: Jayamani Viswanathan
 role: Final-Year CSE Student & Full Stack Developer
 focus: MERN Stack | Clean, scalable web apps
 status: Job-seeking @ service-based companies
 currently: Strengthening DSA (Java) + system design
-fun_fact: Also a podcast host and poet 🎙️✍️
+fun_fact: Also a podcast host and poet
 ```
 
 </td>
@@ -55,19 +55,19 @@ fun_fact: Also a podcast host and poet 🎙️✍️
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:2D0C57&height=2&width=1000" width="100%" />
 
-<h2 align="center">✨ Featured Projects</h2>
+<h2 align="center">Featured Projects</h2>
 
 <table align="center">
 <tr>
 <td width="50%">
 
-**🛒 AuraMart**
+**AuraMart**
 E-commerce site with cart & wishlist functionality
 
 </td>
 <td width="50%">
 
-**📝 The Inkpress**
+**The Inkpress**
 Literary blogging platform for writers
 
 </td>
@@ -75,13 +75,13 @@ Literary blogging platform for writers
 <tr>
 <td width="50%">
 
-**🛍️ TrendsCart**
+**TrendsCart**
 Frontend e-commerce, deployed on Netlify
 
 </td>
 <td width="50%">
 
-**💰 Expense Tracker**
+**Expense Tracker**
 React app with hooks (useState, useEffect, useMemo, useCallback)
 
 </td>
@@ -90,7 +90,7 @@ React app with hooks (useState, useEffect, useMemo, useCallback)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:2D0C57&height=2&width=1000" width="100%" />
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="center">GitHub Statistics</h2>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-jay-1e71.vercel.app/api?username=Jayamaniv&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=B980F0&icon_color=B980F0&text_color=E8DFF5" />
