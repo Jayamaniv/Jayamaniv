@@ -69,7 +69,7 @@ Hi, I'm **Jayamani viswanathan — a final-year Computer Science student and asp
 ## GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JayamanivE&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=B980F0&icon_color=B980F0&text_color=E8DFF5" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jayamaniv&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=B980F0&icon_color=B980F0&text_color=E8DFF5" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayamaniv&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=B980F0&text_color=E8DFF5" />
 </p>
 
@@ -78,7 +78,7 @@ Hi, I'm **Jayamani viswanathan — a final-year Computer Science student and asp
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayamaniv&theme=redical&bg_color=0D0221&color=B980F0&line=B980F0&point=E8DFF5&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayamaniv&theme=radical&bg_color=0D0221&color=B980F0&line=B980F0&point=E8DFF5&hide_border=true" />
 </p>
 
 <div align="center">
