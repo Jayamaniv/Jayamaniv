@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D0C57,100:6A0DAD&height=220&section=header&text=Hi,%20I'm%20Jayashree&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Storyteller&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D0C57,100:6A0DAD&height=220&section=header&text=Hi,%20I'm%20Jayamani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Storyteller&descAlignY=58&descSize=18" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=24&duration=3000&pause=800&color=B980F0&center=true&vCenter=true&width=600&lines=Building+clean%2C+scalable+web+apps;MERN+Stack+Developer;Turning+ideas+into+code+%F0%9F%92%9C;Poet+%7C+Podcaster+%7C+Creator" />
