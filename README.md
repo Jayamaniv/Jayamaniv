@@ -23,7 +23,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:2D0C57&height=2&width=1000" width="100%" />
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <table align="center">
 <tr>
@@ -35,7 +35,7 @@ role: Final-Year CSE Student & Full Stack Developer
 focus: MERN Stack | Clean, scalable web apps
 status: Job-seeking @ service-based companies
 currently: Strengthening DSA (Java) + system design
-fun_fact: Also a podcast host  🎙️✍️
+fun_fact: Also a podcast host.
 ```
 
 </td>
@@ -47,7 +47,7 @@ fun_fact: Also a podcast host  🎙️✍️
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:2D0C57&height=2&width=1000" width="100%" />
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github,vscode,vite,netlify&theme=dark" />
@@ -55,19 +55,19 @@ fun_fact: Also a podcast host  🎙️✍️
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:2D0C57&height=2&width=1000" width="100%" />
 
-<h2 align="center">✨ Featured Projects</h2>
+<h2 align="center">Featured Projects</h2>
 
 <table align="center">
 <tr>
 <td width="50%">
 
-**🛒 AuraMart**
+** AuraMart**
 E-commerce site with cart & wishlist functionality
 
 </td>
 <td width="50%">
 
-**📝 The Inkpress**
+**The Inkpress**
 Literary blogging platform for writers
 
 </td>
@@ -75,13 +75,13 @@ Literary blogging platform for writers
 <tr>
 <td width="50%">
 
-**🛍️ TrendsCart**
+** TrendsCart**
 Frontend e-commerce, deployed on Netlify
 
 </td>
 <td width="50%">
 
-**💰 Expense Tracker**
+** Expense Tracker**
 React app with hooks (useState, useEffect, useMemo, useCallback)
 
 </td>
@@ -90,11 +90,11 @@ React app with hooks (useState, useEffect, useMemo, useCallback)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:2D0C57&height=2&width=1000" width="100%" />
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="center">GitHub Statistics</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jayamaniv&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=B980F0&icon_color=B980F0&text_color=E8DFF5" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayamaniv&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=B980F0&text_color=E8DFF5" />
+  <img height="165" src="https://github-readme-stats-multiuser.vercel.app/api?username=Jayamaniv&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=B980F0&icon_color=B980F0&text_color=E8DFF5" />
+  <img height="165" src="https://github-readme-stats-multiuser.vercel.app/api/top-langs/?username=Jayamaniv&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=B980F0&text_color=E8DFF5" />
 </p>
 
 <p align="center">
@@ -102,7 +102,7 @@ React app with hooks (useState, useEffect, useMemo, useCallback)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayamaniv&theme=redical&bg_color=0D0221&color=B980F0&line=B980F0&point=E8DFF5&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayamaniv&theme=radical&bg_color=0D0221&color=B980F0&line=B980F0&point=E8DFF5&hide_border=true" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:2D0C57&height=2&width=1000" width="100%" />
