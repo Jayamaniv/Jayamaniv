@@ -62,7 +62,7 @@ Hi, I'm **Jayamani viswanathan — a final-year Computer Science student and asp
 - **AuraMart** — E-commerce site with cart & wishlist
 - **The Inkpress** — Literary blogging platform
 - **TrendsCart** — Frontend e-commerce, deployed on Netlify
-- **Expense Tracker** — React app using hooks (useState, useEffect, useMemo, useCallback)
+- 
 
 ---
 
