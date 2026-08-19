@@ -1,72 +1,96 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=180&section=header&text=Hey,%20I'm%20Jayamani%20(Jay)&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D0C57,100:6A0DAD&height=220&section=header&text=Hi,%20I'm%20Jayashree&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Storyteller&descAlignY=58&descSize=18" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=24&duration=3000&pause=800&color=B980F0&center=true&vCenter=true&width=600&lines=Building+clean%2C+scalable+web+apps;MERN+Stack+Developer;Turning+ideas+into+code+%F0%9F%92%9C;Poet+%7C+Podcaster+%7C+Creator" />
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Jayamaniv&label=Profile%20Views&color=6a0dad&style=flat" />
+<img src="https://img.shields.io/github/followers/Jayamaniv?label=Followers&style=flat&color=6a0dad" />
 
 </div>
 
-<h3 align="center">Connect with me</h3>
+<br>
 
 <p align="center">
-  <a href="mailto:Jayamaniviswanathan01@gmail.com"><img src="https://img.shields.io/badge/-Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jayamani-v-4a54a72b6?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/-LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/konjam_kathaipoma?igsh=MXhqMnB2cjA5ODAydg=="><img src="https://img.shields.io/badge/-Instagram-6A0DAD?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:Jayamaniviswanathan01@gmail.com"><img src="https://img.shields.io/badge/-Email-2D0C57?style=for-the-badge&logo=gmail&logoColor=B980F0" /></a>
+  <a href="https://www.linkedin.com/in/jayamani-v-4a54a72b6?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/-LinkedIn-2D0C57?style=for-the-badge&logo=linkedin&logoColor=B980F0" /></a>
+  <a href="https://www.instagram.com/konjam_kathaipoma?igsh=MXhqMnB2cjA5ODAydg=="><img src="https://img.shields.io/badge/-Instagram-2D0C57?style=for-the-badge&logo=instagram&logoColor=B980F0" /></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:2D0C57&height=2&width=1000" width="100%" />
 
-## About Me
+<h2 align="center">🚀 About Me</h2>
 
-Hi, I'm **Jayamani viswanathan — a final-year Computer Science student and aspiring Full Stack Developer, focused on building clean, scalable, and modern web applications with the **MERN stack**.
+<table align="center">
+<tr>
+<td width="60%" valign="top">
 
-
+```yaml
+name: Jayamani Viswanathan
+role: Final-Year CSE Student & Full Stack Developer
+focus: MERN Stack | Clean, scalable web apps
+status: Job-seeking @ service-based companies
+currently: Strengthening DSA (Java) + system design
+fun_fact: Also a podcast host  🎙️✍️
 ```
-🎯 Job-seeking — targeting service-based companies
-💻 Full Stack Developer | MERN
-🎙️ Podcast Creator 
-🌱 Currently strengthening DSA (Java) + system design basics
-```
 
----
+</td>
+<td width="40%" align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Jayamaniv&theme=algolia&no-frame=true&column=2&margin-w=10&margin-h=10&row=2" />
+</td>
+</tr>
+</table>
 
-## Technologies
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:2D0C57&height=2&width=1000" width="100%" />
 
-### Core Technologies
+<h2 align="center">🛠️ Tech Stack</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-6A0DAD?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-6A0DAD?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-6A0DAD?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-6A0DAD?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github,vscode,vite,netlify&theme=dark" />
 </p>
 
-### MERN Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/-MongoDB-6A0DAD?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express.js-6A0DAD?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-6A0DAD?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-6A0DAD?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:2D0C57&height=2&width=1000" width="100%" />
 
-### Tools & Platforms
-<p align="center">
-  <img src="https://img.shields.io/badge/-Git-6A0DAD?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-6A0DAD?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS%20Code-6A0DAD?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vite-6A0DAD?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Netlify-6A0DAD?style=for-the-badge&logo=netlify&logoColor=white" />
-</p>
+<h2 align="center">✨ Featured Projects</h2>
 
----
+<table align="center">
+<tr>
+<td width="50%">
 
-## Featured Projects
+**🛒 AuraMart**
+E-commerce site with cart & wishlist functionality
 
-- **AuraMart** — E-commerce site with cart & wishlist
-- **The Inkpress** — Literary blogging platform
-- **TrendsCart** — Frontend e-commerce, deployed on Netlify
-- 
+</td>
+<td width="50%">
 
----
+**📝 The Inkpress**
+Literary blogging platform for writers
 
-## GitHub Statistics
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🛍️ TrendsCart**
+Frontend e-commerce, deployed on Netlify
+
+</td>
+<td width="50%">
+
+**💰 Expense Tracker**
+React app with hooks (useState, useEffect, useMemo, useCallback)
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:2D0C57&height=2&width=1000" width="100%" />
+
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jayamaniv&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=B980F0&icon_color=B980F0&text_color=E8DFF5" />
@@ -78,11 +102,15 @@ Hi, I'm **Jayamani viswanathan — a final-year Computer Science student and asp
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayamaniv&theme=radical&bg_color=0D0221&color=B980F0&line=B980F0&point=E8DFF5&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayamaniv&theme=redical&bg_color=0D0221&color=B980F0&line=B980F0&point=E8DFF5&hide_border=true" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A0DAD,100:2D0C57&height=2&width=1000" width="100%" />
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer" />
+### 💜 Thanks for stopping by!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D0C57,100:6A0DAD&height=100&section=footer" />
 
 </div>
